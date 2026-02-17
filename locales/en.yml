@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: Discourse, as Kier's Vision intended
+    settings:
+      example_setting: A description of a setting.
