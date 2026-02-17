@@ -3,6 +3,7 @@
   "devDependencies": {
     "@discourse/lint-configs": "2.37.2",
     "@glint/ember-tsc": "1.0.9",
+    "@glint/template": "^1.7.4",
     "concurrently": "^9.2.1",
     "discourse": "npm:@discourse/types@2026.1.0-2709d36",
     "ember-template-lint": "7.9.3",
@@ -28,6 +29,5 @@
     "npm": "please-use-pnpm",
     "yarn": "please-use-pnpm",
     "pnpm": "^10"
-  },
-  "packageManager": "pnpm@10.28.0"
+  }
 }

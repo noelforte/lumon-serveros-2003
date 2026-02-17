@@ -14,6 +14,9 @@ importers:
       '@glint/ember-tsc':
         specifier: 1.0.9
         version: 1.0.9(typescript@5.9.3)
+      '@glint/template':
+        specifier: ^1.7.4
+        version: 1.7.4
       concurrently:
         specifier: ^9.2.1
         version: 9.2.1
@@ -264,6 +267,9 @@ packages:
 
   '@glint/template@1.7.3':
     resolution: {integrity: sha512-ouB9HjLJ5kDnAhORLx43vTmGukm6uHg5hg+jAoiSlyifQdVINmXIkkGPGCD1HQ0WeIDZ/CmxH7aIZlIyI90AAw==}
+
+  '@glint/template@1.7.4':
+    resolution: {integrity: sha512-39gTESXJmiIzJhcweJQ+44eIX+n+alJpD6HKpX8nPXCggVu2Yq6KP9pA5gwUvWE1/NYZhITiOqdA7UuyVtWMww==}
 
   '@handlebars/parser@2.2.2':
     resolution: {integrity: sha512-n/SZW+12rwikx/f8YcSv9JCi5p9vn1Bnts9ZtVvfErG4h0gbjHI1H1ZMhVUnaOC7yzFc6PtsCKIK8XeTnL90Gw==}
@@ -2184,6 +2190,8 @@ snapshots:
       - supports-color
 
   '@glint/template@1.7.3': {}
+
+  '@glint/template@1.7.4': {}
 
   '@handlebars/parser@2.2.2': {}
 
