@@ -1,5 +1,7 @@
 en:
   theme_metadata:
-    description: Discourse, as Kier's Vision intended.
-    settings:
-      example_setting: A description of a setting.
+    description:
+      Bringing the 9 core principles to Discourse, as Kier himself intended.
+    # TODO - adjust later
+    # settings:
+    #   example_setting: A description of a setting.
